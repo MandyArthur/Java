@@ -3,17 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package thenewboston;
 
 /**
  *
  * @author David&Mandy
  */
-public class England {
-    public void GenericBreakfast(){
-        System.out.println("A full English breakfast contains eggs, bacon, hashbrown, black pudding, beans and toast. ");
+public class add {
+    
+    public static int main(int a, int b){
+        
+        int sum;
+        sum = a + b; 
+        
+        System.out.println(sum);
+        
     }
     
 }
-
-//fullBreakfast.java
